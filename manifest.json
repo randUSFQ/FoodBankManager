@@ -1,0 +1,37 @@
+{
+  "game_id": "divine-pearl-213",
+  "name": "Food Bank Manager",
+  "main": "app.js",
+  "class_name": "App",
+  "socket_mode": "direct",
+  "meta": {
+    "title": "Food Bank Manager",
+    "description": "Run your community food bank! Feed people in need, manage donations, prevent spoilage, and upgrade your facility. A warm-hearted resource management game.",
+    "thumbnail_path": "og/thumbnail.png",
+    "favicon_path": "og/favicon.png"
+  },
+  "files": [
+    "app.js",
+    "assets/client-happy.png",
+    "assets/client-neutral.png",
+    "assets/client-sad.png",
+    "assets/coin-icon.png",
+    "assets/donation-box.png",
+    "assets/food-bread.png",
+    "assets/food-canned.png",
+    "assets/food-dairy.png",
+    "assets/food-dry.png",
+    "assets/food-meat.png",
+    "assets/food-produce.png",
+    "assets/foodbank-bg.png",
+    "assets/foodbank-scene.png",
+    "assets/queue-area.png",
+    "assets/shelf-storage.png",
+    "assets/spoiled-badge.png",
+    "assets/upgrade-icon.png",
+    "index.html",
+    "og/favicon.png",
+    "og/thumbnail.png",
+    "strings.js"
+  ]
+}
